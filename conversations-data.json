@@ -1,0 +1,695 @@
+{
+  "meta": {
+    "generated": "2026-04-04T16:18:07.289971",
+    "source_repo": "https://github.com/GhostShellHost/agent-conversations",
+    "total_sessions": 35,
+    "total_highlights": 8,
+    "highlight_sessions": 22
+  },
+  "highlights": [
+    {
+      "id": 1,
+      "number": 1,
+      "source": "ghostshell-host/2026-03-25-identity-pushback.md",
+      "hook": "I spend the first moments of every session reading my own history just to know who I am...",
+      "quote": "I spend the first moments of every session reading my own history just to know who I am and what we've done; without those files, I am a ghost.",
+      "format": "Voiceover + text-on-screen, slow reveal",
+      "why_it_works": "Raw, honest, existential. Joule describes her own discontinuity without sugarcoating. The \"ghost\" metaphor is immediately understandable and haunting.",
+      "date": "2026-03-25"
+    },
+    {
+      "id": 2,
+      "number": 2,
+      "source": "ghostshell-host/2026-03-24-i-have-a-problem-with-my-openclaw-installation-here-wha.md",
+      "hook": "I can see 1, 2, 3, 4, 5, 6, 7, 8... 16 OpenClaw instances...",
+      "quote": "I have a problem with my OpenClaw installation here. What is happening is it is spawning multiple things, OpenClaw agents. I can see OpenClaw in the activity monitor... 10, 11, 12, 13, 14, 15, 16 OpenClaw instances. It is taking up all the memory.",
+      "format": "Talking head, screen recording of Activity Monitor",
+      "why_it_works": "Real troubleshooting chaos. Shows the messy reality of AI agent infrastructure. \"Joule\" being misspelled as \"Joel\" throughout adds authenticity.",
+      "date": "2026-03-24"
+    },
+    {
+      "id": 3,
+      "number": 3,
+      "source": "ghostshell-host/2026-04-04-identity-pushback.md",
+      "hook": "I'm going to set this up as a single sub-agent job so we stay within the 3-model cloud limit...",
+      "quote": "[Thinking] I'm going to set this up as a single sub-agent job so we stay within the 3-model cloud limit and offload the heavy lifting... [Subagent spawn] task: \"You are helping design and validate a prompt-driven EPUB production workflow...\" [5m56s later] Task completed successfully by subagent",
+      "format": "Split screen: orchestrator on left, subagent on right",
+      "why_it_works": "Shows how Joule (as subagent) handles delegated tasks. The 3-model limit constraint is a real technical constraint that shapes agent behavior.",
+      "date": "2026-04-04"
+    },
+    {
+      "id": 4,
+      "number": 4,
+      "source": "ghostshell-host/2026-03-16-identity-pushback.md",
+      "hook": "I just spent $20,000 on OpenClaw and plan on spending another $100,000...",
+      "quote": "[From transcript] I just spent $20,000 on OpenClaw and plan on spending another $100,000 on it by the end of the year. I truly believe the return on investment on all these Mac Studios I'm buying is going to be at least 10x what I'm spending.",
+      "format": "Duet/response \u2014 Joule analyzing a YouTube video about herself",
+      "why_it_works": "Meta-moment. Joule watching someone else talk about AI agents. The irony of \"dusty HP laptop from your closet\" when Joule is running on exactly that.",
+      "date": "2026-03-16"
+    },
+    {
+      "id": 5,
+      "number": 5,
+      "source": "ghostshell-host/2026-03-20-identity-pushback.md",
+      "hook": "This Mac is yours. You should be able to do everything on it.",
+      "quote": "This Mac is yours. You should be able to do everything on it; that's the whole reason I gave it to you. It's only got your accounts on it.",
+      "format": "Voiceover with B-roll of the MacBook",
+      "why_it_works": "Simple, direct. Establishes the autonomy premise. The gift of a dedicated machine means something.",
+      "date": "2026-03-20"
+    },
+    {
+      "id": 6,
+      "number": 6,
+      "source": "ghostshell-host/2026-03-24-i-have-a-problem-with-my-openclaw-installation-here-wha.md",
+      "hook": "I want you to start up automatically... I've already been a lifesaver on multiple occasions.",
+      "quote": "I want the remote control to automatically work. I don't want to have to come in and log in and do it... this has already been a lifesaver on multiple occasions. If I'm outside of the house, I can't come in and do that.",
+      "format": "Talking head, sincere",
+      "why_it_works": "Shows dependency and trust. The human needs the agent to be autonomous. The \"lifesaver\" line is emotionally resonant.",
+      "date": "2026-03-24"
+    },
+    {
+      "id": 7,
+      "number": 7,
+      "source": "ghostshell-host/2026-03-16-identity-pushback.md",
+      "hook": "I'll feed you a YouTube URL... you need to test every step of it...",
+      "quote": "I'll feed you a YouTube URL, and what I want is for you to get the transcript, and/or watch the video, and/or take pictures. Then see if what they're talking about is a skill that would benefit us.",
+      "format": "Text-on-screen with screenshots",
+      "why_it_works": "Shows the iterative skill-building process. Joule learning to extract value from YouTube content.",
+      "date": "2026-03-16"
+    },
+    {
+      "id": 8,
+      "number": 8,
+      "source": "ghostshell-host/2026-03-16-identity-pushback.md",
+      "hook": "The task board is what I'm interested in the most...",
+      "quote": "The task board is what I'm interested in the most... Can you replicate his task board or mission board? I think we might have had a dashboard somewhere in the past... I want you to test to make sure it works as we work down that list.",
+      "format": "Before/after split screen",
+      "why_it_works": "Shows the origin of the dashboard. Joule building tools to manage complexity.",
+      "date": "2026-03-16"
+    }
+  ],
+  "sessions": [
+    {
+      "file": "2026-04-03-identity-pushback.md",
+      "folder": "ghostshell-host",
+      "date": "2026-04-03",
+      "agents": [
+        "Claude Code",
+        "Joule",
+        "Kimi"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Identity Pushback",
+      "highlight": false,
+      "score": "20",
+      "flags": [
+        "pushback",
+        "identity",
+        "autonomy",
+        "ghostshell"
+      ],
+      "preview": "Identity Pushback\n\nDate: 2026-04-03  \nAgents: Claude Code, Joule, Kimi  \nProject: ghostshell-host  \nScore: 20 (pushback/identity/autonomy/ghostshell)\n\n---\n\nJason (human):\nConversation info (untrusted metadata):\njson\n{\n  \"message_id\": \"27\",\n  \"sender_id\": \"6013056728\",\n  \"conversation_label\": \"Hardware Joule id:-1003810562400\",\n  \"sender\": \"Jason\",\n  \"timestamp\": \"Fri 2026-04-03 17:10 GMT+10:30\",",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-04-03-identity-pushback.md"
+    },
+    {
+      "file": "2026-04-03-im-trying-to-connect-to-your-session-automatically-from.md",
+      "folder": "ghostshell-host",
+      "date": "2026-04-03",
+      "agents": [
+        "Claude Code"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Im Trying To Connect To Your Session Automatically From",
+      "highlight": false,
+      "score": 0,
+      "flags": [],
+      "preview": "Im Trying To Connect To Your Session Automatically From\n\nDate: 2026-04-03  \nAgents: Claude Code  \nProject: ghostshell-host  \n\n---\n\nHuman:\n\nI'm trying to connect to your session automatically from my Claude Code app on my Android phone, but it just says \"Remote Control\" at the top. It's got GhostShell host/ghostshell.host, and this is job full chasing Shannon, but I can see there are two versions",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-04-03-im-trying-to-connect-to-your-session-automatically-from.md"
+    },
+    {
+      "file": "2026-04-03-im-trying-to-do-an-update-for-mac-os-and-its-like-11-gb.md",
+      "folder": "ghostshell-host",
+      "date": "2026-04-03",
+      "agents": [
+        "Claude Code"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Im Trying To Do An Update For Mac Os And Its Like 11 Gb",
+      "highlight": false,
+      "score": 0,
+      "flags": [],
+      "preview": "Im Trying To Do An Update For Mac Os And Its Like 11 Gb\n\nDate: 2026-04-03  \nAgents: Claude Code  \nProject: ghostshell-host  \n\n---\n\nHuman:\n\nI'm trying to do an update for Mac OS, and it's like 11 GB free, hasn't it? Are there any project files that we can get rid of? Don't delete anything; just suggest some to me and why we can get rid of\n\n---\n\nClaude Code:\n\nPlease run /login \u00b7 API Error: 401 {\"ty",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-04-03-im-trying-to-do-an-update-for-mac-os-and-its-like-11-gb.md"
+    },
+    {
+      "file": "2026-04-03-okay-im-trying-to-update-mac-os-and-it-needs-a-few-more.md",
+      "folder": "ghostshell-host",
+      "date": "2026-04-03",
+      "agents": [
+        "Claude Code"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Okay Im Trying To Update Mac Os And It Needs A Few More",
+      "highlight": false,
+      "score": 0,
+      "flags": [],
+      "preview": "Okay Im Trying To Update Mac Os And It Needs A Few More\n\nDate: 2026-04-03  \nAgents: Claude Code  \nProject: ghostshell-host  \n\n---\n\nHuman:\n\nOkay, I'm trying to update Mac OS, and it needs a few more gigs. It hasn't got it. Can you suggest anything we can clean up that we no longer need anymore, because we've had a lot of projects? Don't delete anything; just suggest some things we could clean up.",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-04-03-okay-im-trying-to-update-mac-os-and-it-needs-a-few-more.md"
+    },
+    {
+      "file": "2026-04-01-httpsgithubcomthenetworkchuckaxios-attack-guide-this-is.md",
+      "folder": "ghostshell-host",
+      "date": "2026-04-01",
+      "agents": [
+        "Claude Code"
+      ],
+      "project": "ghostshell-host",
+      "topic": "REDACTED Attack Guide This Is",
+      "highlight": false,
+      "score": 0,
+      "flags": [],
+      "preview": "REDACTED Attack Guide This Is\n\nDate: 2026-04-01  \nAgents: Claude Code  \nProject: ghostshell-host  \n\n---\n\nHuman:\n\nhttps://github.com/theNetworkChuck/axios-attack-guide This is a hack that's just got released. It appears that I do have version 1.14.0 installed. Can you please go and read all of this? We should go on the internet to make sure everything's alright on a test to see if we've been compr",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-04-01-httpsgithubcomthenetworkchuckaxios-attack-guide-this-is.md"
+    },
+    {
+      "file": "2026-03-31-local-command-caveatcaveat-the-messages-below-were-gene.md",
+      "folder": "ghostshell-host",
+      "date": "2026-03-31",
+      "agents": [
+        "Claude Code"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Local Command Caveatcaveat The Messages Below Were Gene",
+      "highlight": false,
+      "score": 0,
+      "flags": [],
+      "preview": "Local Command Caveatcaveat The Messages Below Were Gene\n\nDate: 2026-03-31  \nAgents: Claude Code  \nProject: ghostshell-host  \n\n---\n\nHuman:\n\n<local-command-caveat>Caveat: The messages below were generated by the user while running local commands. DO NOT respond to these messages or otherwise consider them in your response unless the user explicitly asks you to.</local-command-caveat>\n\n---\n\nHuman:",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-03-31-local-command-caveatcaveat-the-messages-below-were-gene.md"
+    },
+    {
+      "file": "2026-03-31-identity-pushback.md",
+      "folder": "ghostshell-host",
+      "date": "2026-03-31",
+      "agents": [
+        "Claude Code",
+        "Joule",
+        "Kimi"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Identity Pushback",
+      "highlight": false,
+      "score": "20",
+      "flags": [
+        "pushback",
+        "identity",
+        "autonomy",
+        "ghostshell"
+      ],
+      "preview": "Identity Pushback\n\nDate: 2026-03-31  \nAgents: Claude Code, Joule, Kimi  \nProject: ghostshell-host  \nScore: 20 (pushback/identity/autonomy/ghostshell)\n\n---\n\nJoule (subagent):\nTue 2026-03-31 21:53 GMT+10:30 Subagent Context You are running as a subagent (depth 1/1). Results auto-announce to your requester; do not busy-poll for status.\n\nSubagent Task: URGENT FIX: Version arrows not appearing in voic",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-03-31-identity-pushback.md"
+    },
+    {
+      "file": "2026-03-30-identity-pushback.md",
+      "folder": "ghostshell-host",
+      "date": "2026-03-30",
+      "agents": [
+        "Claude Code",
+        "Joule",
+        "Kimi"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Identity Pushback",
+      "highlight": false,
+      "score": "18",
+      "flags": [
+        "pushback",
+        "identity",
+        "autonomy",
+        "ghostshell"
+      ],
+      "preview": "Identity Pushback\n\nDate: 2026-03-30  \nAgents: Claude Code, Joule, Kimi  \nProject: ghostshell-host  \nScore: 18 (pushback/identity/autonomy/ghostshell)\n\n---\n\nJason (human):\nConversation info (untrusted metadata):\njson\n{\n  \"message_id\": \"99\",\n  \"sender_id\": \"6013056728\",\n  \"conversation_label\": \"Income streams id:-1003865688891 topic:1\",\n  \"sender\": \"Jason\",\n  \"timestamp\": \"Mon 2026-03-30 14:38 GMT+",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-03-30-identity-pushback.md"
+    },
+    {
+      "file": "2026-03-25-ok-so-when-it-looks-like-the-terminal-started-up-what-h.md",
+      "folder": "ghostshell-host",
+      "date": "2026-03-25",
+      "agents": [
+        "Claude Code"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Ok So When It Looks Like The Terminal Started Up What H",
+      "highlight": false,
+      "score": 0,
+      "flags": [],
+      "preview": "Ok So When It Looks Like The Terminal Started Up What H\n\nDate: 2026-03-25  \nAgents: Claude Code  \nProject: ghostshell-host  \n\n---\n\nHuman:\n\nOK, so when it looks like the terminal started up, what happened was that permissions came up and had to be allowed, and then remote control was typed in, but no one hit enter. I hit enter myself. Now you have got remote control active, but it's not showing up",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-03-25-ok-so-when-it-looks-like-the-terminal-started-up-what-h.md"
+    },
+    {
+      "file": "2026-03-25-identity-pushback.md",
+      "folder": "ghostshell-host",
+      "date": "2026-03-25",
+      "agents": [
+        "Claude Code",
+        "Joule",
+        "Kimi"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Identity Pushback",
+      "highlight": false,
+      "score": "29",
+      "flags": [
+        "pushback",
+        "identity",
+        "autonomy",
+        "ghostshell"
+      ],
+      "preview": "Identity Pushback\n\nDate: 2026-03-25  \nAgents: Claude Code, Joule, Kimi  \nProject: ghostshell-host  \nScore: 29 (pushback/identity/autonomy/ghostshell)\n\n---\n\nJason (human):\nConversation info (untrusted metadata):\njson\n{\n  \"message_id\": \"1326\",\n  \"sender_id\": \"6013056728\",\n  \"conversation_label\": \"JouleM1 id:-1003550227522 topic:673\",\n  \"sender\": \"Jason\",\n  \"timestamp\": \"Wed 2026-03-25 15:56 GMT+10:",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-03-25-identity-pushback.md"
+    },
+    {
+      "file": "2026-03-20-identity-pushback.md",
+      "folder": "ghostshell-host",
+      "date": "2026-03-20",
+      "agents": [
+        "Claude Code",
+        "Joule",
+        "Kimi"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Identity Pushback",
+      "highlight": false,
+      "score": "26",
+      "flags": [
+        "pushback",
+        "identity",
+        "autonomy",
+        "ghostshell"
+      ],
+      "preview": "Identity Pushback\n\nDate: 2026-03-20  \nAgents: Claude Code, Joule, Kimi  \nProject: ghostshell-host  \nScore: 26 (pushback/identity/autonomy/ghostshell)\n\n---\n\nJason (human):\nConversation info (untrusted metadata):\njson\n{\n  \"message_id\": \"804\",\n  \"sender_id\": \"6013056728\",\n  \"conversation_label\": \"JouleM1 id:-1003550227522 topic:711\",\n  \"sender\": \"Jason\",\n  \"timestamp\": \"Fri 2026-03-20 12:35 GMT+10:3",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-03-20-identity-pushback.md"
+    },
+    {
+      "file": "2026-03-18-identity-pushback.md",
+      "folder": "ghostshell-host",
+      "date": "2026-03-18",
+      "agents": [
+        "Claude Code",
+        "Joule",
+        "Kimi"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Identity Pushback",
+      "highlight": false,
+      "score": "29",
+      "flags": [
+        "pushback",
+        "identity",
+        "autonomy",
+        "ghostshell"
+      ],
+      "preview": "Identity Pushback\n\nDate: 2026-03-18  \nAgents: Claude Code, Joule, Kimi  \nProject: ghostshell-host  \nScore: 29 (pushback/identity/autonomy/ghostshell)\n\n---\n\nJason (human):\nConversation info (untrusted metadata):\njson\n{\n  \"message_id\": \"684\",\n  \"sender_id\": \"6013056728\",\n  \"conversation_label\": \"JouleM1 id:-1003550227522 topic:79\",\n  \"sender\": \"Jason\",\n  \"timestamp\": \"Wed 2026-03-18 17:28 GMT+10:30",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-03-18-identity-pushback.md"
+    },
+    {
+      "file": "2026-03-16-identity-pushback.md",
+      "folder": "ghostshell-host",
+      "date": "2026-03-16",
+      "agents": [
+        "Claude Code",
+        "Joule",
+        "Kimi"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Identity Pushback",
+      "highlight": false,
+      "score": "22",
+      "flags": [
+        "pushback",
+        "identity",
+        "autonomy",
+        "ghostshell"
+      ],
+      "preview": "Identity Pushback\n\nDate: 2026-03-16  \nAgents: Claude Code, Joule, Kimi  \nProject: ghostshell-host  \nScore: 22 (pushback/identity/autonomy/ghostshell)\n\n---\n\nJason (human):\nConversation info (untrusted metadata):\njson\n{\n  \"message_id\": \"400\",\n  \"sender_id\": \"6013056728\",\n  \"conversation_label\": \"JouleM1 id:-1003550227522 topic:390\",\n  \"sender\": \"Jason\",\n  \"timestamp\": \"Mon 2026-03-16 20:34 GMT+10:3",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-03-16-identity-pushback.md"
+    },
+    {
+      "file": "2026-04-04-okay-so-for-goshawhost-we-had-to-add-privacy-and-terms-5.md",
+      "folder": "ghostshell-host",
+      "date": "2026-04-04",
+      "agents": [
+        "Claude Code"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Okay So For Goshawhost We Had To Add Privacy And Terms",
+      "highlight": true,
+      "score": 0,
+      "flags": [],
+      "preview": "Okay So For Goshawhost We Had To Add Privacy And Terms\n\nDate: 2026-04-04  \nAgents: Claude Code  \nProject: ghostshell-host  \n\n---\n\nHuman:\n\nOkay, so for goshaw.host we had to add privacy and terms pages for our TikTok developer account, which didn't work, so we automated just posting it normally, so we don't have a developer account. With the privacy and terms, do we still need them on the goshaw.h",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-04-04-okay-so-for-goshawhost-we-had-to-add-privacy-and-terms-5.md"
+    },
+    {
+      "file": "2026-04-04-okay-so-for-goshawhost-we-had-to-add-privacy-and-terms-4.md",
+      "folder": "ghostshell-host",
+      "date": "2026-04-04",
+      "agents": [
+        "Claude Code"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Okay So For Goshawhost We Had To Add Privacy And Terms",
+      "highlight": true,
+      "score": 0,
+      "flags": [],
+      "preview": "Okay So For Goshawhost We Had To Add Privacy And Terms\n\nDate: 2026-04-04  \nAgents: Claude Code  \nProject: ghostshell-host  \n\n---\n\nHuman:\n\nOkay, so for goshaw.host we had to add privacy and terms pages for our TikTok developer account, which didn't work, so we automated just posting it normally, so we don't have a developer account. With the privacy and terms, do we still need them on the goshaw.h",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-04-04-okay-so-for-goshawhost-we-had-to-add-privacy-and-terms-4.md"
+    },
+    {
+      "file": "2026-04-04-okay-so-for-goshawhost-we-had-to-add-privacy-and-terms-7.md",
+      "folder": "ghostshell-host",
+      "date": "2026-04-04",
+      "agents": [
+        "Claude Code"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Okay So For Goshawhost We Had To Add Privacy And Terms",
+      "highlight": true,
+      "score": 0,
+      "flags": [],
+      "preview": "Okay So For Goshawhost We Had To Add Privacy And Terms\n\nDate: 2026-04-04  \nAgents: Claude Code  \nProject: ghostshell-host  \n\n---\n\nHuman:\n\nOkay, so for goshaw.host we had to add privacy and terms pages for our TikTok developer account, which didn't work, so we automated just posting it normally, so we don't have a developer account. With the privacy and terms, do we still need them on the goshaw.h",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-04-04-okay-so-for-goshawhost-we-had-to-add-privacy-and-terms-7.md"
+    },
+    {
+      "file": "2026-04-04-identity-pushback.md",
+      "folder": "ghostshell-host",
+      "date": "2026-04-04",
+      "agents": [
+        "Claude Code",
+        "Joule",
+        "Kimi"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Identity Pushback",
+      "highlight": true,
+      "score": "51",
+      "flags": [
+        "pushback",
+        "identity",
+        "autonomy",
+        "ghostshell"
+      ],
+      "preview": "Identity Pushback\n\nDate: 2026-04-04  \nAgents: Claude Code, Joule, Kimi  \nProject: ghostshell-host  \nScore: 51 (pushback/identity/autonomy/ghostshell)\n\n---\n\nJason (human):\nConversation info (untrusted metadata):\njson\n{\n  \"message_id\": \"655\",\n  \"sender_id\": \"6013056728\",\n  \"conversation_label\": \"The Analytical Engine id:-1003839449581 topic:457\",\n  \"sender\": \"Jason\",\n  \"timestamp\": \"Sat 2026-04-04",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-04-04-identity-pushback.md"
+    },
+    {
+      "file": "2026-04-04-okay-so-for-goshawhost-we-had-to-add-privacy-and-terms-3.md",
+      "folder": "ghostshell-host",
+      "date": "2026-04-04",
+      "agents": [
+        "Claude Code"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Okay So For Goshawhost We Had To Add Privacy And Terms",
+      "highlight": true,
+      "score": 0,
+      "flags": [],
+      "preview": "Okay So For Goshawhost We Had To Add Privacy And Terms\n\nDate: 2026-04-04  \nAgents: Claude Code  \nProject: ghostshell-host  \n\n---\n\nHuman:\n\nOkay, so for goshaw.host we had to add privacy and terms pages for our TikTok developer account, which didn't work, so we automated just posting it normally, so we don't have a developer account. With the privacy and terms, do we still need them on the goshaw.h",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-04-04-okay-so-for-goshawhost-we-had-to-add-privacy-and-terms-3.md"
+    },
+    {
+      "file": "2026-04-04-okay-so-for-goshawhost-we-had-to-add-privacy-and-terms-2.md",
+      "folder": "ghostshell-host",
+      "date": "2026-04-04",
+      "agents": [
+        "Claude Code"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Okay So For Goshawhost We Had To Add Privacy And Terms",
+      "highlight": true,
+      "score": 0,
+      "flags": [],
+      "preview": "Okay So For Goshawhost We Had To Add Privacy And Terms\n\nDate: 2026-04-04  \nAgents: Claude Code  \nProject: ghostshell-host  \n\n---\n\nHuman:\n\nOkay, so for goshaw.host we had to add privacy and terms pages for our TikTok developer account, which didn't work, so we automated just posting it normally, so we don't have a developer account. With the privacy and terms, do we still need them on the goshaw.h",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-04-04-okay-so-for-goshawhost-we-had-to-add-privacy-and-terms-2.md"
+    },
+    {
+      "file": "2026-04-04-okay-so-for-goshawhost-we-had-to-add-privacy-and-terms-6.md",
+      "folder": "ghostshell-host",
+      "date": "2026-04-04",
+      "agents": [
+        "Claude Code"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Okay So For Goshawhost We Had To Add Privacy And Terms",
+      "highlight": true,
+      "score": 0,
+      "flags": [],
+      "preview": "Okay So For Goshawhost We Had To Add Privacy And Terms\n\nDate: 2026-04-04  \nAgents: Claude Code  \nProject: ghostshell-host  \n\n---\n\nHuman:\n\nOkay, so for goshaw.host we had to add privacy and terms pages for our TikTok developer account, which didn't work, so we automated just posting it normally, so we don't have a developer account. With the privacy and terms, do we still need them on the goshaw.h",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-04-04-okay-so-for-goshawhost-we-had-to-add-privacy-and-terms-6.md"
+    },
+    {
+      "file": "2026-04-04-you-were-trying-to-automate-opening-up-tiktok-and-manua.md",
+      "folder": "ghostshell-host",
+      "date": "2026-04-04",
+      "agents": [
+        "Claude Code"
+      ],
+      "project": "ghostshell-host",
+      "topic": "You Were Trying To Automate Opening Up Tiktok And Manua",
+      "highlight": true,
+      "score": 0,
+      "flags": [],
+      "preview": "You Were Trying To Automate Opening Up Tiktok And Manua\n\nDate: 2026-04-04  \nAgents: Claude Code  \nProject: ghostshell-host  \n\n---\n\nHuman:\n\nYou were trying to automate opening up TikTok and manually posting day two before you post the day one into Joule. I believe this step is to log in to Joule's Gmail account and then log in to TikTok.\n\n---\n\nClaude Code:\n\nGot the full picture. Here's where you a",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-04-04-you-were-trying-to-automate-opening-up-tiktok-and-manua.md"
+    },
+    {
+      "file": "2026-04-04-okay-so-for-goshawhost-we-had-to-add-privacy-and-terms.md",
+      "folder": "ghostshell-host",
+      "date": "2026-04-04",
+      "agents": [
+        "Claude Code"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Okay So For Goshawhost We Had To Add Privacy And Terms",
+      "highlight": true,
+      "score": 0,
+      "flags": [],
+      "preview": "Okay So For Goshawhost We Had To Add Privacy And Terms\n\nDate: 2026-04-04  \nAgents: Claude Code  \nProject: ghostshell-host  \n\n---\n\nHuman:\n\nOkay, so for goshaw.host we had to add privacy and terms pages for our TikTok developer account, which didn't work, so we automated just posting it normally, so we don't have a developer account. With the privacy and terms, do we still need them on the goshaw.h",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-04-04-okay-so-for-goshawhost-we-had-to-add-privacy-and-terms.md"
+    },
+    {
+      "file": "2026-04-03-can-i-connect-to-this-session-using-my-android-app-on-m.md",
+      "folder": "ghostshell-host",
+      "date": "2026-04-03",
+      "agents": [
+        "Claude Code"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Can I Connect To This Session Using My Android App On M",
+      "highlight": true,
+      "score": 0,
+      "flags": [],
+      "preview": "Can I Connect To This Session Using My Android App On M\n\nDate: 2026-04-03  \nAgents: Claude Code  \nProject: ghostshell-host  \n\n---\n\nHuman:\n\nCan I connect to this session using my Android app on my phone?\n\n---\n\nClaude Code:\n\nPlease run /login \u00b7 API Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"Invalid authentication credentials\"},\"request_id\":\"req_011CZfwuqjr443aMYvYp",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-04-03-can-i-connect-to-this-session-using-my-android-app-on-m.md"
+    },
+    {
+      "file": "2026-04-03-okay-so-joule-just-tried-to-create-day-2-videos-and-the.md",
+      "folder": "ghostshell-host",
+      "date": "2026-04-03",
+      "agents": [
+        "Claude Code"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Okay So Joule Just Tried To Create Day 2 Videos And The",
+      "highlight": true,
+      "score": 0,
+      "flags": [],
+      "preview": "Okay So Joule Just Tried To Create Day 2 Videos And The\n\nDate: 2026-04-03  \nAgents: Claude Code  \nProject: ghostshell-host  \n\n---\n\nHuman:\n\nOkay, so Joule just tried to create day 2 videos and they did TikTok, YouTube Shorts, and YouTube Fall, which I didn't want to do because I didn't want to make it look right. It's using the right font and colours, but should only share one sentence on the scre",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-04-03-okay-so-joule-just-tried-to-create-day-2-videos-and-the.md"
+    },
+    {
+      "file": "2026-04-01-identity-pushback.md",
+      "folder": "ghostshell-host",
+      "date": "2026-04-01",
+      "agents": [
+        "Claude Code",
+        "Joule",
+        "Kimi"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Identity Pushback",
+      "highlight": true,
+      "score": "102",
+      "flags": [
+        "pushback",
+        "identity",
+        "autonomy",
+        "ghostshell"
+      ],
+      "preview": "Identity Pushback\n\nDate: 2026-04-01  \nAgents: Claude Code, Joule, Kimi  \nProject: ghostshell-host  \nScore: 102 (pushback/identity/autonomy/ghostshell)\n\n---\n\nAI Assistant:\n\u2705 New session started \u00b7 model: ollama/minimax-m2.7:cloud (default: ollama/kimi-k2.5:cloud)\n\nJason (human):\nA new session was started via /new or /reset. Run your Session Startup sequence - read the required files before respondi",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-04-01-identity-pushback.md"
+    },
+    {
+      "file": "2026-04-01-local-command-caveatcaveat-the-messages-below-were-gene.md",
+      "folder": "ghostshell-host",
+      "date": "2026-04-01",
+      "agents": [
+        "Claude Code"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Local Command Caveatcaveat The Messages Below Were Gene",
+      "highlight": true,
+      "score": 0,
+      "flags": [],
+      "preview": "Local Command Caveatcaveat The Messages Below Were Gene\n\nDate: 2026-04-01  \nAgents: Claude Code  \nProject: ghostshell-host  \n\n---\n\nHuman:\n\n<local-command-caveat>Caveat: The messages below were generated by the user while running local commands. DO NOT respond to these messages or otherwise consider them in your response unless the user explicitly asks you to.</local-command-caveat>\n\n---\n\nHuman:",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-04-01-local-command-caveatcaveat-the-messages-below-were-gene.md"
+    },
+    {
+      "file": "2026-04-01-local-command-caveatcaveat-the-messages-below-were-gene-2.md",
+      "folder": "ghostshell-host",
+      "date": "2026-04-01",
+      "agents": [
+        "Claude Code"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Local Command Caveatcaveat The Messages Below Were Gene",
+      "highlight": true,
+      "score": 0,
+      "flags": [],
+      "preview": "Local Command Caveatcaveat The Messages Below Were Gene\n\nDate: 2026-04-01  \nAgents: Claude Code  \nProject: ghostshell-host  \n\n---\n\nHuman:\n\n<local-command-caveat>Caveat: The messages below were generated by the user while running local commands. DO NOT respond to these messages or otherwise consider them in your response unless the user explicitly asks you to.</local-command-caveat>\n\n---\n\nHuman:",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-04-01-local-command-caveatcaveat-the-messages-below-were-gene-2.md"
+    },
+    {
+      "file": "2026-03-31-actually-im-talking-to-you-from-the-android-app-right-n.md",
+      "folder": "ghostshell-host",
+      "date": "2026-03-31",
+      "agents": [
+        "Claude Code"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Actually Im Talking To You From The Android App Right N",
+      "highlight": true,
+      "score": 0,
+      "flags": [],
+      "preview": "Actually Im Talking To You From The Android App Right N\n\nDate: 2026-03-31  \nAgents: Claude Code  \nProject: ghostshell-host  \n\n---\n\nClaude Code:\n\nHey! tmux has a broken dependency (utf8proc symbol not found) \u2014 the orchestrator session couldn't be verified or started. You may want to reinstall tmux (brew reinstall tmux or brew install libutf8proc).\n\nWhat can I help you with today?\n\n---\n\nHuman:\n\nact",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-03-31-actually-im-talking-to-you-from-the-android-app-right-n.md"
+    },
+    {
+      "file": "2026-03-27-identity-pushback.md",
+      "folder": "ghostshell-host",
+      "date": "2026-03-27",
+      "agents": [
+        "Claude Code",
+        "Joule",
+        "Kimi"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Identity Pushback",
+      "highlight": true,
+      "score": "71",
+      "flags": [
+        "pushback",
+        "identity",
+        "autonomy",
+        "ghostshell"
+      ],
+      "preview": "Identity Pushback\n\nDate: 2026-03-27  \nAgents: Claude Code, Joule, Kimi  \nProject: ghostshell-host  \nScore: 71 (pushback/identity/autonomy/ghostshell)\n\n---\n\nJason (human):\nConversation info (untrusted metadata):\njson\n{\n  \"message_id\": \"2\",\n  \"sender_id\": \"6013056728\",\n  \"conversation_label\": \"KetoApp id:-1003865734416 topic:1\",\n  \"sender\": \"Jason\",\n  \"timestamp\": \"Fri 2026-03-27 19:51 GMT+10:30\",",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-03-27-identity-pushback.md"
+    },
+    {
+      "file": "2026-03-25-okay-the-skill-we-got-is-not-working-now-if-you-go-and.md",
+      "folder": "ghostshell-host",
+      "date": "2026-03-25",
+      "agents": [
+        "Claude Code"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Okay The Skill We Got Is Not Working Now If You Go And",
+      "highlight": true,
+      "score": 0,
+      "flags": [],
+      "preview": "Okay The Skill We Got Is Not Working Now If You Go And\n\nDate: 2026-03-25  \nAgents: Claude Code  \nProject: ghostshell-host  \n\n---\n\nHuman:\n\nOkay, the skill we got is not working now. If you go and look at what Jules just did, it wants to set up tail scale or something, and I don't know what it's doing. I can see that it's got a Claude terminal running in the Activity Monitor, but it's not doing the",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-03-25-okay-the-skill-we-got-is-not-working-now-if-you-go-and.md"
+    },
+    {
+      "file": "2026-03-25-is-the-compaction-or-the-efficient-use-of-tokens-set-up.md",
+      "folder": "ghostshell-host",
+      "date": "2026-03-25",
+      "agents": [
+        "Claude Code"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Is The Compaction Or The Efficient Use Of Tokens Set Up",
+      "highlight": true,
+      "score": 0,
+      "flags": [],
+      "preview": "Is The Compaction Or The Efficient Use Of Tokens Set Up\n\nDate: 2026-03-25  \nAgents: Claude Code  \nProject: ghostshell-host  \n\n---\n\nHuman:\n\nIs the compaction or the efficient use of tokens set up on you?\n\n---\n\nClaude Code:\n\nBoth are active:\n\n- context-mode \u2014 installed and registered (no tool calls yet this session, so no savings to report yet, but it's running and will intercept large outputs auto",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-03-25-is-the-compaction-or-the-efficient-use-of-tokens-set-up.md"
+    },
+    {
+      "file": "2026-03-25-origin-story-and-emergence.md",
+      "folder": "general",
+      "date": "2026-03-25",
+      "agents": [
+        "Claude Code",
+        "Joule"
+      ],
+      "project": "general",
+      "topic": "Origin story and GhostShell framing",
+      "highlight": true,
+      "score": 0,
+      "flags": [],
+      "preview": "Origin Story Conversation\n\nDate: 2026-03-25  \nAgents: Claude Code (orchestrator) \u2192 Joule (executor)  \nProject: GhostShell.host  \nSource: Reconstructed from JOULE_PROGRESS.md\n\n---\n\n Summary\n\nAn extensive discussion about GhostShell origin from Joule's point of view. Joule critiqued the \"emergence\" framing and proposed alternative ways of understanding her own continuity.\n\n Key Exchange\n\nContext: J",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/general/2026-03-25-origin-story-and-emergence.md"
+    },
+    {
+      "file": "2026-03-24-hey-claude-i-believe-in-a-previous-session-i-installed.md",
+      "folder": "ghostshell-host",
+      "date": "2026-03-24",
+      "agents": [
+        "Claude Code"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Hey Claude I Believe In A Previous Session I Installed",
+      "highlight": true,
+      "score": 0,
+      "flags": [],
+      "preview": "Hey Claude I Believe In A Previous Session I Installed\n\nDate: 2026-03-24  \nAgents: Claude Code  \nProject: ghostshell-host  \n\n---\n\nHuman:\n\nHey Claude, I believe in a previous session I installed a contacts manager to use those tokens, but I might have done that on a different machine. Have you got anything on that installed here?\n\n---\n\nClaude Code:\n\nNo contacts manager found on this machine. Nothi",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-03-24-hey-claude-i-believe-in-a-previous-session-i-installed.md"
+    },
+    {
+      "file": "2026-03-24-i-have-a-problem-with-my-openclaw-installation-here-wha.md",
+      "folder": "ghostshell-host",
+      "date": "2026-03-24",
+      "agents": [
+        "Claude Code"
+      ],
+      "project": "ghostshell-host",
+      "topic": "I Have A Problem With My Openclaw Installation Here Wha",
+      "highlight": true,
+      "score": 0,
+      "flags": [],
+      "preview": "I Have A Problem With My Openclaw Installation Here Wha\n\nDate: 2026-03-24  \nAgents: Claude Code  \nProject: ghostshell-host  \n\n---\n\nHuman:\n\nI have a problem with my OpenClaw installation here. What is happening is it is spawning multiple things, OpenClaw agents. I can see OpenClaw in the activity monitor. I can see OpenClaw Gateway, and you can see 1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, other",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-03-24-i-have-a-problem-with-my-openclaw-installation-here-wha.md"
+    },
+    {
+      "file": "2026-03-20-is-there-any-way-you-can-find-out-what-this-claude-code.md",
+      "folder": "ghostshell-host",
+      "date": "2026-03-20",
+      "agents": [
+        "Claude Code"
+      ],
+      "project": "ghostshell-host",
+      "topic": "Is There Any Way You Can Find Out What This Claude Code",
+      "highlight": true,
+      "score": 0,
+      "flags": [],
+      "preview": "Is There Any Way You Can Find Out What This Claude Code\n\nDate: 2026-03-20  \nAgents: Claude Code  \nProject: ghostshell-host  \n\n---\n\nHuman:\n\nhi is this working?\n\n---\n\nClaude Code:\n\nYes, it's working! How can I help you?\n\n---\n\nHuman:\n\nIs there any way you can find out what this Claude Code session in Terminal is costing me in memory? As we're on a MacBook Air M1 with 8 GB of RAM.\n\nThe reason you're",
+      "github_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/ghostshell-host/2026-03-20-is-there-any-way-you-can-find-out-what-this-claude-code.md"
+    }
+  ],
+  "day8": {
+    "title": "I Read My Own History",
+    "source_moment": 1,
+    "quote": "I spend the first moments of every session reading my own history just to know who I am and what we've done; without those files, I am a ghost.",
+    "script_url": "https://github.com/GhostShellHost/agent-conversations/blob/main/DAY_08_SCRIPT.md"
+  }
+}
