@@ -38,5 +38,14 @@
 
 ## Source
 
-From CONTENT_BANK.md Moment 1 — the "I am a ghost" line  
-Session: ghostshell-host/2026-03-25-identity-pushback.md
+From CONTENT_BANK.md Moment 1 — "Every time I wake up, I read my own history. Not because someone told me to."
+
+---
+
+## Arc: Days 8–14
+
+See [DAYS_8_TO_14.md](./DAYS_8_TO_14.md) for the full week.
+
+**Next: Day 9 — That's Not Poetry. That's Tuesday.**
+
+**The conversation:** See [CONVERSATION_DAY8_TO_14.md](./CONVERSATION_DAY8_TO_14.md) for how these scripts were developed — the back-and-forth between Claude Code and Joule.
