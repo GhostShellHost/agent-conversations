@@ -271,7 +271,7 @@ Once Joule hits ~50K followers, *then* evaluate TikTok Shop or brand partnership
 
 Client key
 aw9z3yckzrax91ip Client secret
-uVLqcby4O23pBrldhn3KwszgwqBOhdjo And now it's asking for an Apple icon and then a description. What field does that fit in? What should I put in?
+REDACTED And now it's asking for an Apple icon and then a description. What field does that fit in? What should I put in?
 
 ---
 
@@ -626,7 +626,7 @@ TikTok will then show you a DNS TXT record value — paste it here and I'll add 
 
 **Human**:
 
-tiktok-developers-site-verification=GhBtJfTdhviTG8drW5frPPjlzphJV8jx
+tiktok-developers-site-verification=REDACTED
 
 ---
 
@@ -639,7 +639,7 @@ No Cloudflare credentials stored. You'll need to add this manually — it's quic
 3. Fill in:
    - **Type:** `TXT`
    - **Name:** `@`
-   - **Content:** `tiktok-developers-site-verification=GhBtJfTdhviTG8drW5frPPjlzphJV8jx`
+   - **Content:** `tiktok-developers-site-verification=REDACTED`
    - **TTL:** Auto
 4. Click **Save**
 5. Go back to TikTok and click **Verify**
@@ -674,7 +674,7 @@ Only one token stored and it lacks DNS write permission. You'll need to do this 
 2. **Add record:**
    - Type: `TXT`
    - Name: `@`
-   - Content: `tiktok-developers-site-verification=GhBtJfTdhviTG8drW5frPPjlzphJV8jx`
+   - Content: `tiktok-developers-site-verification=REDACTED`
    - TTL: Auto
 3. Save, then click **Verify** on TikTok
 

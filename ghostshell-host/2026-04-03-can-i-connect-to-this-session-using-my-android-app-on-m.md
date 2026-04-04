@@ -1286,7 +1286,7 @@ Days 2–7 are in the playlist. Day 1's video (`gP87v2Ht2sU`) got deleted — lo
 
 All done. Playlist is live with all 7 days in order:
 
-**https://www.youtube.com/playlist?list=PLamQxqatI7Amr767KlMg3h27ttJvM1nmc**
+**https://www.youtube.com/playlist?list=REDACTED**
 
 Day 1 → Day 7, locked in sequence. You can pin this playlist to the channel Home tab as the featured content so it's the first thing visitors see.
 

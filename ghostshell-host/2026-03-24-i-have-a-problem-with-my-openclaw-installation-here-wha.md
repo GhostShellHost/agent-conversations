@@ -1702,7 +1702,7 @@ Yes, go ahead with DNS — don't skip it. DNS verification is actually more reli
 
 **What you'll see:** Google shows you a TXT record that looks like:
 ```
-google-site-verification=AbCdEfGhIjKlMnOpQrStUvWxYz123456789
+google-site-verification=REDACTED
 ```
 
 **Copy that full value and paste it here.** I'll check if we have Cloudflare API credentials and have Joule add the DNS record automatically — you won't need to touch the Cloudflare dashboard at all.
@@ -3171,7 +3171,7 @@ Reading the existing settings file first:
 
 **Claude Code**:
 
-`skipDangerousModePermissionPrompt: true` is already set. Now I'll add `bypassPermissions` as the default mode — that's the full auto-accept:
+`REDACTED: true` is already set. Now I'll add `bypassPermissions` as the default mode — that's the full auto-accept:
 
 ---
 

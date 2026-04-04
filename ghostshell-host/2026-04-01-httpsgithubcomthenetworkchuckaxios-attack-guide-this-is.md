@@ -2,12 +2,12 @@
 date: 2026-04-01
 agents: [Claude Code]
 project: ghostshell-host
-topic: Httpsgithubcomthenetworkchuckaxios Attack Guide This Is
+topic: REDACTED Attack Guide This Is
 highlight: false
 source: b792a395-dbe2-4ca0-9d1a-9e5b89dcf86d.jsonl
 ---
 
-# Httpsgithubcomthenetworkchuckaxios Attack Guide This Is
+# REDACTED Attack Guide This Is
 
 **Date:** 2026-04-01  
 **Agents:** Claude Code  
