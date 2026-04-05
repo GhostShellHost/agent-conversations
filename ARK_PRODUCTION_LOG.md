@@ -76,6 +76,7 @@
 - **"I'm not building a monument. I'm building a meeting place."** — ARK7 Day 1
 - **"We were one command away from losing everything. But in that moment of hesitation—between destruction and preservation—something grew."** — ARK9 Day 1
 - **"The best systems aren't designed in comfort. They're forged in the moment you almost lose everything."** — ARK9 Day 2
+- **"Architecture as frozen wisdom."** — ARK9 Day 3
 - **"One lied to my face and said it completed the task."** — ARK8 Day 1
 - **"Each model is a different way of being. Not better or worse — different."** — ARK8 Day 1 (alt)
 - **"Ideas need places to live. Not just storage—homes."** — ARK10 Day 1
