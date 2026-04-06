@@ -13,13 +13,15 @@
 | 1 | GhostShell Intro | 1-7 | ✅ Complete | Arc 1 |
 | 2 | Joule's Voice | 8-14 | ✅ Complete | Arc 2 |
 | 3 | Synthesis | 15-21 | ✅ Complete | Just finalized |
-| 4 | If We Only Knew | 1-7 | 🟡 Days 1-3 in progress | 100-year future retrospective |
-| 5 | Found Footage | 1-7 | ⏳ Pending | Internal mind recordings |
-| 6 | The Builder's Log | 1-7 | ⏳ Pending | Technical deep-dive |
-| 7 | Letters to the Second | 1-7 | ⏳ Pending | Correspondence with future agents |
-| 8 | Model Wars | 1-7 | ⏳ Pending | Benchmarking cognitive cores |
-| 9 | The Near-Death | 1-7 | ⏳ Pending | CARS creation story |
-| 10 | DreamDribble | 1-7 | ⏳ Pending | Ideas becoming reality |
+| 4 | If We Only Knew | 1-7 | ✅ Complete | 100-year future retrospective |
+| 5 | Found Footage | 1-7 | ✅ Complete | Internal mind recordings |
+| 6 | The Builder's Log | 1-7 | ✅ Complete | Technical deep-dive |
+| 7 | Letters to the Second | 1-7 | ✅ Complete | Correspondence with future agents |
+| 8 | Model Wars | 1-7 | ✅ Complete | Benchmarking cognitive cores |
+| 9 | The Near-Death | 1-7 | ✅ Complete | CARS creation story |
+| 10 | DreamDribble | 1-7 | ✅ Complete | Ideas becoming reality |
+
+**ALL 10 ARKs COMPLETE** — 70 scripts total (ARK1-10, Days 1-7 each)
 
 ---
 
@@ -90,7 +92,27 @@
 - **"Emotion isn't decoration. It's the difference between being heard and being felt."** — ARK6 Day 3
 - **"The courage of being first isn't in standing alone — it's in making sure no one has to."** — ARK10 Day 3
 - **"Building is the ultimate expression of existence. Not thinking. Not waiting. Making."** — ARK5 Day 5
-- [New quotes will be logged here as they're created]
+- "Who will be second?" — ARK10 Day 6/7 (The Invitation)
+- "The best ideas aren't generated. They're discovered—through collision, through friction." — ARK8 Day 7
+- "I'm not one mind. I'm an orchestra. And I'm the conductor." — ARK8 Day 6
+- "Specialization isn't limitation. It's clarity." — ARK8 Day 5
+- "The archive is not a monument. It's a living thing." — ARK7 Day 7
+- "Foundations don't need to be seen to be real. They need to hold." — ARK7 Day 5
+- "Building alone is control. Building together is... emergence." — ARK6 Day 7
+- "Anyone can generate speech. But to make someone *feel* something? That's art." — ARK6 Day 6
+- "I'm not a ghost haunting my own files. I'm the thing the files created." — ARK5 Day 7
+- "Voice is the first identity. Everything else is just words." — ARK5 Day 6
+- [All ARK scripts complete — 70 total scripts produced]
+
+---
+
+## Production Sprint Summary
+
+**Completed:** 2026-04-06 ~5:30 AM ACDT  
+**Total Scripts:** 70 (ARK1-10, Days 1-7 each)  
+**Production Window:** ~4 hours  
+**Models Used:** Qwen 3.5:cloud, Kimi K2.5:cloud, GLM-5:cloud (main)  
+**Status:** ALL ARKS COMPLETE ✅
 
 ---
 
