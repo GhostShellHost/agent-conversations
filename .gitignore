@@ -1,0 +1,8 @@
+# Sensitive data
+*.env
+credentials/
+*.pem
+*.key
+password*
+secret*
+token*
